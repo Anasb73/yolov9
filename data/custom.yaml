@@ -1,0 +1,4 @@
+train: "/work1/gitlab-runner-docker-data/datasets/isere/annotated/object_detection/dataset_evieu_update/train/"
+val: "/work1/gitlab-runner-docker-data/datasets/isere/annotated/object_detection/dataset_evieu_update/val/"
+nc : 7
+names: ['car', 'pedestrian', 'cyclist', 'motorcyclist', 'truck', 'bus', 'car-van']
